@@ -1,0 +1,66 @@
+/* This is the grid in drip */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+  .container{
+    list-style-type:none;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 2em;
+    padding: 50px 100px;
+  }
+  
+  .prod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.look{
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.looks{
+  width: auto;
+  max-width: 200px;
+  height: 200px;
+}
+  
+h2{
+  font-size:25px;
+  text-align:center;
+  font-family: copperplate;
+ color: #E85A4F;
+}
+h3{
+  font-size:20px;
+  text-align:center; 
+  color: #E98074; 
+  font-family: copperplate;
+}
+
+h4{
+  font-size:15px;
+  text-align:center; 
+  color: #8E8D8A;
+  font-family: copperplate; 
+}
+
+h5{
+    font-size:40px;
+    text-align:center; 
+    color: #E98074; 
+    font-family: copperplate;  
+}
+
+.button {
+  background-color:#E85A4F;
+  border:1px solid;
+  border-color:#E98074;
+}

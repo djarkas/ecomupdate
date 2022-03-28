@@ -1,0 +1,59 @@
+/*contact*/
+.con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    margin: 15vh auto;
+    padding: 15px;
+    border: none;
+    box-shadow: 0 0 15px #E98074;
+    /* background-color: gray; */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+}
+
+input {
+    width: 100%;
+    margin: 5px 0;
+    height: 35px;
+    font-size: 17px;
+    text-align: center;
+    outline: none;
+    font-family: copperplate;
+    border: none;
+    background: #D8C3A5;
+}
+
+textarea {
+    width: 100%;
+    margin: 5px 0;
+    font-size: 17px;
+    text-align: center;
+    outline: none;
+    font-family: copperplate;
+    border: none;
+    background: #D8C3A5;
+}
+button{
+    margin: 10px auto;
+    width: 120px;
+    background: #E98074;
+    color: #EAE7DC;
+    cursor: pointer;
+    font-family: copperplate;
+}
+button:hover{
+background: #E98074;
+}
+@media screen and (max-width:600px) {
+    .con{
+        width: 90%;
+    }
+}
+

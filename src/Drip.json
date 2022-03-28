@@ -1,0 +1,123 @@
+[
+
+{
+    "id": 1,
+    "image": "images/pinkk.jpg",
+    "product": "Pink Camo Jogger$",
+    "price": "$25.00", 
+    "description": "These stylish pants are great for the gym or a brunch with the girls.",
+    "button": "Add to Cart",
+    "type":"Pants"
+},
+
+{
+"id": 2,
+"image": "images/ry.jpg",
+"product": "Red & Yellow Drop $houlder Jacket",
+"price":"$45.00",
+"description":"This jacket will keep you cool in the summer becasue of its unique material.",
+"button": "Add to Cart",
+"type":"Tops"
+},
+
+{
+"id": 3,
+"image": "images/rock.jpg",
+"product": "Rock & Roll Car Tank",
+"price":"$25.00 ",
+"description":"You better be wearing this at the next Rock & Roll concert you attend.",
+"button": "Add to Cart",
+"type":"Tops"
+},
+
+{
+"id": 4,
+"image": "images/stripe1.jpg",
+"product": "Blue $triped $kirt",
+"price":"$35.00",
+"description":"Style this skirt up with some heels and a cute top for a night out.",
+"button": "Add to Cart",
+"type":"Bottoms"
+},
+
+{
+ "id": 5,
+ "image": "images/flow.jpg" ,
+ "product": "Vintage Aloha $k8 Hi" ,
+ "price":"$150.00",
+ "description":"Grab these vintage shoes and be the coolest kid on the block.",
+"button": "Add to Cart",
+"type":"Shoes"
+},
+
+{
+    "id": 6,
+    "image": "images/hat.jpg",
+    "product": "Fluffy Cow Bucket Hat",
+    "price":"$20.00",
+    "description":"This bucket hat is made out of 100% cotton. It is sure to keep your head warm, cozy, & stylish.",
+    "button": "Add to Cart",
+    "type":"Hats"
+    },
+
+    {
+     "id": 7,
+     "image": "images/Picture1.jpg" ,
+     "product": "Plaid $weater",
+     "price":"$40.00 ",
+     "description":" This sweater is a crop top that looks good with just about anything. ",
+     "button": "Add to Cart",
+     "type":"Tops"
+     },
+
+{
+    "id": 8,
+    "image":"images/air.jpg",
+    "product": "Air Jordan 1 Mid Arctic Orange",
+     "price":"$130.00 ",
+     "description":"These Jordans are the IT basketball and fashion shoe of today. ",
+     "button": "Add to Cart",
+     "type":"Shoes"
+      },
+
+      {
+        "id": 9 ,
+        "image":"images/patch1.jpg",
+        "product": "Patchwork Jean$",
+         "price":"$40.00  ",
+         "description":"Grab these cute pants for a trip to the farm or even a night out! " ,
+         "button": "Add to Cart",
+         "type":"Bottoms"
+          },
+          {
+            "id": 10,
+            "image":"images/prod1.jpg",
+            "product": "$hort Blue Overall$",
+             "price":"  $50.00",
+             "description":"Grab your cowboy hat and boots to pair with these lovely overalls!" ,
+             "button": "Add to Cart",
+             "type":"Other"
+              },
+
+              {
+                "id": 11,
+                "image":"images/space.jpg",
+                "product": "Planet Tank",
+                 "price":"$15.00 ",
+                 "description":"Blast off with this adorable basic tank that pairs well with anything." ,
+                 "button": "Add to Cart",
+                 "type":"Tops"
+                  },
+
+                  {
+                    "id":12 ,
+                    "image":"images/ag.jpg",
+                    "product": "$ilver Chain",
+                     "price":"$60.00  ",
+                     "description":"Make sure to pick up the dopest accessory put there to complete your look! " ,
+                     "button": "Add to Cart",
+                     "type":"Other"
+                      }
+            
+
+]
